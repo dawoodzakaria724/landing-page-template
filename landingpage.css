@@ -19,8 +19,6 @@ html {
     text-decoration: none;
     text-transform: none;
     color: #000000;
-    background-color: #ffffff;
-
   }
   .row {
     margin-bottom: 100px;
@@ -53,8 +51,8 @@ html {
   }
 
   .card {
-      height: 500px;
-      width: 400px;
+      min-height: 500px;
+      min-width: 400px;
   }
 
   .first-image {
